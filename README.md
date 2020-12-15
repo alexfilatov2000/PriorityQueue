@@ -30,8 +30,6 @@ To use the manager you need to create class pqueue que, than create function of 
 
 <h4>Examples</h4>
 
-Creation of allocator.
-
    Code:
   
     pqueue que;
